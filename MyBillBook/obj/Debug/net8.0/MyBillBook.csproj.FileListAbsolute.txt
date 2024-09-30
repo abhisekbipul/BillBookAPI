@@ -77,3 +77,4 @@ C:\Users\LENOVO\Source\Repos\MyBillBook\MyBillBook\bin\Debug\net8.0\BouncyCastle
 C:\Users\LENOVO\Source\Repos\MyBillBook\MyBillBook\bin\Debug\net8.0\MailKit.dll
 C:\Users\LENOVO\Source\Repos\MyBillBook\MyBillBook\bin\Debug\net8.0\MimeKit.dll
 C:\Users\LENOVO\Source\Repos\MyBillBook\MyBillBook\bin\Debug\net8.0\itextsharp.dll
+C:\Users\LENOVO\Source\Repos\MyBillBook\MyBillBook\obj\Debug\net8.0\MyBillBook.sourcelink.json

@@ -13,5 +13,7 @@ namespace MyBillBook.Models
         public int Quantity { get; set; }
         public decimal Rate { get; set; }
         public decimal Value => Quantity * Rate;
+        public string? Status { get; set; }
+
     }
 }

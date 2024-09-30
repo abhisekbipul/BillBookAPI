@@ -42,6 +42,7 @@ namespace MyBillBook.Controllers
         [HttpPost]
         public IActionResult CreateSale(Sales sales)
         {
+            sales.Status = "unpaid";
             if (ModelState.IsValid)
             {
                 db.sales.Add(sales);
